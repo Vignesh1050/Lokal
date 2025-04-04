@@ -160,10 +160,3 @@ MyJobsApp
 
 ---
 
-## License
-
-[MIT License](https://opensource.org/licenses/MIT). You’re free to modify, distribute, and use this project in personal or commercial applications. 
-
----
-
-**Enjoy building with Expo + React Navigation!** If you have questions or feedback, feel free to open an issue or submit a pull request.
