@@ -1,4 +1,3 @@
-Below is an example **README.md** you can adapt to your own project. It summarizes the goals, setup steps, architecture, and usage instructions for your **Expo + React Navigation** job-listing app with bookmarking. 
 
 ---
 
